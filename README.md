@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi. I'm Sergio Mejia
+
+
+## You can find me:
 
 <!--
 **Sergio-Mejia/Sergio-Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
