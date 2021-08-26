@@ -4,8 +4,6 @@ Hello, I am a student of data systematization
 
 
 ## Social Networks:
-
-<br/>
 <a href="https://twitter.com/SergioDMejia">
   <img align="left" alt="Hemant Joshi| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
