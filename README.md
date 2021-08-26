@@ -5,12 +5,20 @@
 
 <br/>
 <a href="https://twitter.com/SergioDMejia">
-  <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Hemant Joshi| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/sergiodmejia/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
+  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
 </a>
 </br>
+
+
+## Languages and Tools:
+
+
+### Get In Touch
+<a href="mailto:sdmejiac@correo.udistrital.edu.co"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 <!--
 **Sergio-Mejia/Sergio-Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
