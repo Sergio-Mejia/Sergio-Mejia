@@ -1,5 +1,7 @@
 ### Hi. I'm Sergio Mejia
 
+Hello, I am a student of data systematization
+
 
 ## Social Networks:
 
