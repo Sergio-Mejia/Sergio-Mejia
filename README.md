@@ -1,6 +1,6 @@
 ### Hi. I'm Sergio Mejia
 
-Hello, I am a student of data systematization
+Hello, I am a student of data systematization. Currently I'm learning React
 
 
 ### Social Networks:
