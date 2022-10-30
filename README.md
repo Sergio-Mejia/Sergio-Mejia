@@ -1,12 +1,9 @@
 ### Hi. I'm Sergio Mejia
 
-Hello, I am a student of data systematization. Currently I'm learning React
+Hello, I am a student of data systematization. Currently I'm learning Flask and Spring Boot
 
 
 ### Social Networks:
-<a href="https://twitter.com/SergioDMejia">
-  <img align="left" alt="Hemant Joshi| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.instagram.com/sergiodmejia/">
   <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank"/>
 </a>
