@@ -17,7 +17,7 @@ Hello, I am a student of data systematization. Currently I'm learning Flask and 
         </a></p>
 
 ### Get In Touch
-<a href="mailto:sdmejiac@correo.udistrital.edu.co"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+<a href="mailto:sdmejiac@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
 
 <!--
 **Sergio-Mejia/Sergio-Mejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
